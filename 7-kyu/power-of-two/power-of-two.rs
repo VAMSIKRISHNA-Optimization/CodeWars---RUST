@@ -19,4 +19,3 @@ fn power_of_two(mut x: u64) -> bool
 //  x.is_power_of_two()
     
 }
-​
